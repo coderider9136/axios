@@ -1,0 +1,14 @@
+"Unknown column 'completed' in 'field list'",
+  sql: "insert into `user` (`completed`, `id`, `title`, `userId`) values 
+  (false, 1, 'delectus aut autem', 1)
+  , (false, 2, 'quis ut nam facilis et officia qui', 1), 
+  (false, 3, 'fugiat veniam minus', 1), 
+  (true, 4, 'et porro tempora', 1
+  ), (false, 5, 'laboriosam mollitia et enim quasi adipisci quia provident illum', 1), (
+    false, 6, 'qui ullam ratione quibusdam voluptatem quia omnis', 1), 
+  (false, 7, 'illo expedita consequatur quia in', 1), 
+  (true, 8, 'quo adipisci enim quam ut ab', 1),
+   (false, 9, 'molestiae perspiciatis ipsa', 1),
+   (true, 10, 'illo est ratione doloremque quia maiores aut', 1), 
+  (true, 11, 'vero rerum temporibus dolor', 1)
+  , (true, 12, 'ipsa repellendus fugit nisi', 1)
